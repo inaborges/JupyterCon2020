@@ -1,5 +1,9 @@
 This a repo created do share more information about my Lightning Talk.
 
+Link for the video:
+
+
+
 I'll be happy to connect if you want to know more about it:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinahsborges/)](https://www.linkedin.com/in/marinahsborges/)
