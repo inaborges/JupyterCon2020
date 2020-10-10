@@ -1,6 +1,6 @@
-This a repo created do share more information about my Lightning Talk.
+This a repo created to share more information about my Lightning Talk.
 
-Link for the video:
+Here is the link for the video:
 
 
 
