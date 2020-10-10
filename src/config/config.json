@@ -1,0 +1,7 @@
+{
+"project_name": "jc2020demo",
+"env_path": "jc2020demo/jc2020demo_env",
+"files_path": "../data/raw/",
+"key": "<<<<key>>>>",
+"user": "<<<<user>>>>"
+}
